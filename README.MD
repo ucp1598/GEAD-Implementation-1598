@@ -11,7 +11,7 @@ This project reproduces the GEAD framework for explainable network intrusion det
 - ROC and reconstruction-error visualizations
 
 ## Dataset
-CICIDS2017 Tuesday traffic subset
+Dataset used: CICIDS2017 Tuesday traffic subset
 
 ## Technologies Used
 - Python
